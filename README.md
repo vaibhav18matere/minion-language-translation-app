@@ -1,3 +1,3 @@
 # Banana-speak-translation-app
-starting vanilla javascript
-This is minion language app , basically a translation app which converts a basic english language into banana language. its fun to play around, let's try!
+
+This is minion language translation which converts a basic English language into Banana language. its fun to play around, let's try!
